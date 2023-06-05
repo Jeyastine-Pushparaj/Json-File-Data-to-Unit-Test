@@ -1,0 +1,5 @@
+{
+  "performLogin" : [{"Input" :[{"userName" : "admin","password" : "12345"}],"outPut": "InValid"},{"Input" :[{"userName" : "admin","password" : "password"}],"outPut" : "Valid"}],
+  "addNumbers": [{"Input" : [{"a" : 3,"b" : 1}],"outPut" : 4},{"Input" : [{"a" : 2,"b" : 1}],"outPut" : 3},{"Input" : [{"a" : 12,"b": 1}],"outPut" : 13}],
+  "addStrings": [{"Input" : [{"str1" : "Good ","str2" :  "Morning"}],"outPut":"Good Morning"},{"Input" : [{"str1" : "Good ","str2" :  "Afternoon"}],"outPut":"Good Afternoon"},{"Input" : [{"str1" : "Hi ","str2" :  "Hello"}],"outPut":"Hi Hello"}]
+}
