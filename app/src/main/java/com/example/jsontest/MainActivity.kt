@@ -1,10 +1,7 @@
 package com.example.jsontest
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
-import android.widget.Toast
 import com.example.jsontest.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -19,12 +16,6 @@ class MainActivity : AppCompatActivity() {
             val password = binding.passwordEditText.text.toString()
             Validate().performLogin(username, password)
         }
-
-    }
-
-    fun add(a: Int, b: Int): Int {
-        val c = a + b
-        return c
     }
 
 }

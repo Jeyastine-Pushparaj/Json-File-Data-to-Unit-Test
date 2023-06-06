@@ -1,0 +1,4 @@
+{
+  "subtractNumbers": [{"Input" : [{"a" : 3,"b" : 1}],"outPut" : 2},{"Input" : [{"a" : 2,"b" : 1}],"outPut" : 1},{"Input" : [{"a" : 12,"b": 1}],"outPut" : 11}],
+  "multipleNumbers": [{"Input" : [{"a" : 3,"b" : 1}],"outPut" : 3},{"Input" : [{"a" : 2,"b" : 1}],"outPut" : 2},{"Input" : [{"a" : 12,"b": 2}],"outPut" : 24}]
+}
