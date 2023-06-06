@@ -1,0 +1,4 @@
+{
+  "divisionNumbers": [{"Input" : [{"a" : 8,"b" : 2}],"outPut" : 4},{"Input" : [{"a" : 6,"b" : 3}],"outPut" : 2},{"Input" : [{"a" : 12,"b": 4}],"outPut" : 3}],
+  "greaterNumbers": [{"Input" : [{"a" : 10,"b" : 12}],"outPut" : 12},{"Input" : [{"a" : 6,"b" : 1}],"outPut" : 6},{"Input" : [{"a" : 17,"b": 4}],"outPut" : 17}]
+}
