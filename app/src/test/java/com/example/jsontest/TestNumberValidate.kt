@@ -27,7 +27,7 @@ class TestNumberValidate{
     }
 
     @Test
-    fun toTestMultipleNumbers(){
+    fun toTestMultipleNumber(){
         val classLoader = javaClass.classLoader
         val url = classLoader?.getResource("NumberValidate.json")
         val file = url?.file?.let { File(it) }
